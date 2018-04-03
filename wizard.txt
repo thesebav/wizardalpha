@@ -1,0 +1,11 @@
+name="Kodi 16.1 Jarvis"
+url="https://archive.org/download/kodialpha/kodialpha.zip"
+img="https://pbs.twimg.com/profile_images/672774026209705984/rc_HTbAs_400x400.jpg"
+fanart="https://k60.kn3.net/taringa/7/7/2/0/0/D/FelixA22/6AB.jpg"
+description="WizardAlpha"
+
+name="Kodi 17.3 Krypton"
+url="https://archive.org/download/kodialpha/kodialpha.zip"
+img="https://pbs.twimg.com/profile_images/672774026209705984/rc_HTbAs_400x400.jpg"
+fanart="https://k60.kn3.net/taringa/7/7/2/0/0/D/FelixA22/6AB.jpg"
+description="WizardAlpha"
